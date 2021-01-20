@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="installedFeatures">
+		<item value="org.eclipse.buildship:3.1.4.v20200326-1743"/>
+		<item value="org.eclipse.eclemma.feature:3.1.3.202003132300"/>
+		<item value="org.eclipse.egit:5.8.0.202006091008-r"/>
+		<item value="org.eclipse.emf.common:2.19.0.v20200324-0932"/>
+		<item value="org.eclipse.emf.ecore:2.22.0.v20200519-1135"/>
+		<item value="org.eclipse.epp.mpc:1.8.3.v20200526-1554"/>
+		<item value="org.eclipse.epp.package.java.feature:4.16.0.20200615-1200"/>
+		<item value="org.eclipse.help:2.3.200.v20200604-0540"/>
+		<item value="org.eclipse.jdt:3.18.400.v20200604-0540"/>
+		<item value="org.eclipse.jgit.gpg.bc:5.8.0.202006091008-r"/>
+		<item value="org.eclipse.jgit.http.apache:5.8.0.202006091008-r"/>
+		<item value="org.eclipse.jgit.ssh.apache:5.8.0.202006091008-r"/>
+		<item value="org.eclipse.jgit.ssh.jsch:5.8.0.202006091008-r"/>
+		<item value="org.eclipse.jgit:5.8.0.202006091008-r"/>
+		<item value="org.eclipse.m2e.feature:1.16.0.20200610-1735"/>
+		<item value="org.eclipse.m2e.logback.feature:1.16.0.20200318-1040"/>
+		<item value="org.eclipse.mylyn.commons.identity:1.17.1.v20200511-1958"/>
+		<item value="org.eclipse.mylyn.commons.notifications:1.17.1.v20200511-1958"/>
+		<item value="org.eclipse.mylyn.commons.repositories:1.17.1.v20200511-1958"/>
+		<item value="org.eclipse.mylyn.commons:3.25.1.v20200511-1958"/>
+		<item value="org.eclipse.mylyn.discovery:3.25.1.v20200511-1958"/>
+		<item value="org.eclipse.mylyn.monitor:3.25.1.v20200511-1958"/>
+		<item value="org.eclipse.mylyn.wikitext.editors_feature:3.0.36.202002070035"/>
+		<item value="org.eclipse.mylyn.wikitext_feature:3.0.36.202002070035"/>
+		<item value="org.eclipse.mylyn_feature:3.25.1.v20200514-1748"/>
+		<item value="org.eclipse.oomph.p2:1.16.0.v20200405-0717"/>
+		<item value="org.eclipse.oomph.setup.core:1.17.0.v20200606-0914"/>
+		<item value="org.eclipse.oomph.setup:1.17.0.v20200606-0914"/>
+		<item value="org.eclipse.platform:4.16.0.v20200604-0951"/>
+		<item value="org.eclipse.rcp:4.16.0.v20200604-0951"/>
+		<item value="org.eclipse.userstorage:1.2.0.v20191120-1614"/>
+	</list>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.ui.wizards.new.project"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+</section>

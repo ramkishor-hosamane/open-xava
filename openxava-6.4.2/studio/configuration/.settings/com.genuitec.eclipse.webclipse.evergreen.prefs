@@ -1,0 +1,8 @@
+devstyle.manifest.check.timestamp=1611034464083
+eclipse.preferences.version=1
+manifest.devstyle.download.cache={"updates"\:{"release-version"\:"1.11.0.202012111554","eclipse-version"\:"[4.5.0,5.0.0)","release-notes"\:{"id"\:"ci20201211","delivery-log-url"\:"https\:\\/\\/www.genuitec.com\\/products\\/devstyle\\/deliverylog\\/","release-label"\:"CI 2020.12.11","updates"\:[{"heading"\:"General Fixes and Eclipse 2020-12","message"\:"This release picks up additional fixes for stability and compatibility with Eclipse 2020-12.","bullet"\:{"padding"\:"tiny","overlayicon"\:"ionicons\:ios-moon","color"\:"blue","overlayscale"\:"xlarge","icon"\:"fontawesome\:square","scale"\:"full","type"\:"overlayed","overlaycolor"\:"black","size"\:"32x32","position"\:"center"},"show-if"\:{"bundles"\:["com.genuitec.eclipse.theming.ui"]}}]},"eclipse-roots"\:[{"id"\:"com.genuitec.eclipse.theming.core.feature.feature.group","version"\:"1.11.0.202012111554"},{"id"\:"com.genuitec.eclipse.theming.feature.feature.group","version"\:"1.11.0.202012111554"},{"id"\:"com.genuitec.eclipse.theming.designer.feature.feature.group","version"\:"1.11.0.202012111554"}],"binary-roots"\:[],"repository-url"\:"http\:\\/\\/downloads.genuitec.com\\/downloads\\/products\\/devstyle\\/updates\\/ds20201211","check-interval"\:28800000,"notify-updated"\:14400000},"notifications"\:[],"notifications2"\:[]}
+manifest.devstyle.download.etag="5fd3af2f-4b2"
+manifest.devstyle.download.modified.date=Fri, 11 Dec 2020 17\:41\:03 GMT
+manifest.devstyle.download.url=http\://www.genuitec.com/updates/devstyle/ci/devstyle.json
+new-release-notes-ids=ci20200505,ci20200720,ci20201211
+webclipse.installed-release=1.11.0.202012111554

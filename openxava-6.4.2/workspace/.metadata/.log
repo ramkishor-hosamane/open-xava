@@ -1,0 +1,2320 @@
+!SESSION 2019-08-21 13:39:46.869 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data C:\Users\javi\compartido-ubuntu\openxava-6.2beta\workspace -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-08-21 13:39:51.304
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-08-21 13:40:08.825
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javi'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-08-21 13:45:42.833 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data C:\Users\javi\compartido-ubuntu\openxava-6.2beta\workspace -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-08-21 13:45:46.411
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-08-21 13:45:52.619
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javi'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-08-21 13:58:33.998 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data C:\Users\javi\compartido-ubuntu\openxava-6.2beta\workspace -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-08-21 13:58:37.530
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-08-21 13:58:43.376
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javi'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-09-03 13:14:42.760 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data C:\Users\javi\compartido-ubuntu\openxava-6.2beta\workspace -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-09-03 13:14:47.031
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-09-03 13:14:52.721
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javi'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-09-24 10:24:31.661 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-09-24 10:24:59.386
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javi'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2019-09-24 10:24:59.952
+!MESSAGE Removing part descriptor with the 'org.eclipse.wst.internet.monitor.view' id and the 'TCP/IP Monitor' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2019-09-24 10:24:59.954
+!MESSAGE Removing part descriptor with the 'org.eclipse.wst.jsdt.ui.TypeHierarchy' id and the 'Hierarchy' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2019-09-24 10:24:59.954
+!MESSAGE Removing part descriptor with the 'org.eclipse.wst.jsdt.ui.PackageExplorer' id and the 'Script Explorer' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2019-09-24 10:24:59.957
+!MESSAGE Removing part descriptor with the 'org.eclipse.wst.jsdt.callhierarchy.view' id and the 'Call Hierarchy' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2019-09-24 10:24:59.958
+!MESSAGE Removing part descriptor with the 'org.eclipse.wst.jsdt.ui.SourceView' id and the 'Declaration' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2019-09-24 10:24:59.959
+!MESSAGE Removing part descriptor with the 'org.eclipse.wst.jsdt.ui.JavadocView' id and the 'Documentation' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2019-09-24 10:24:59.960
+!MESSAGE Removing part descriptor with the 'org.eclipse.wst.server.ui.ServersView' id and the 'Servers' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+!SESSION 2019-09-24 10:52:42.450 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data C:\Users\javi\compartido-ubuntu\openxava-6.2\workspace -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-09-24 10:52:50.817
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javi'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-11-04 12:01:01.656 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-11-04 12:06:29.217
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javi'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-02-26 10:21:10.852 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-02-26 10:23:22.265
+!MESSAGE Removing part descriptor with the 'org.eclipse.mylyn.builds.navigator.builds' id and the 'Builds' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-02-26 10:23:22.937
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javi'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.resources 4 2 2020-02-26 10:24:26.903
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.IllegalArgumentException: Attempted to beginRule: MultiRule[], does not match outer scope rule: R/
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:66)
+	at org.eclipse.core.internal.jobs.ThreadJob.illegalPush(ThreadJob.java:137)
+	at org.eclipse.core.internal.jobs.ThreadJob.push(ThreadJob.java:392)
+	at org.eclipse.core.internal.jobs.ImplicitJobs.begin(ImplicitJobs.java:66)
+	at org.eclipse.core.internal.jobs.JobManager.beginRule(JobManager.java:298)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:213)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.resources.Workspace.buildInternal(Workspace.java:515)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:405)
+	at org.eclipse.ui.actions.GlobalBuildAction$1.run(GlobalBuildAction.java:180)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 2 75 2020-02-26 10:24:26.928
+!MESSAGE Errors occurred during the build.
+!SUBENTRY 1 org.eclipse.core.resources 2 566 2020-02-26 10:24:26.928
+!MESSAGE Attempted to beginRule: MultiRule[], does not match outer scope rule: R/
+!STACK 0
+java.lang.IllegalArgumentException: Attempted to beginRule: MultiRule[], does not match outer scope rule: R/
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:66)
+	at org.eclipse.core.internal.jobs.ThreadJob.illegalPush(ThreadJob.java:137)
+	at org.eclipse.core.internal.jobs.ThreadJob.push(ThreadJob.java:392)
+	at org.eclipse.core.internal.jobs.ImplicitJobs.begin(ImplicitJobs.java:66)
+	at org.eclipse.core.internal.jobs.JobManager.beginRule(JobManager.java:298)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:213)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.resources.Workspace.buildInternal(Workspace.java:515)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:405)
+	at org.eclipse.ui.actions.GlobalBuildAction$1.run(GlobalBuildAction.java:180)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2020-03-31 19:43:35.435 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data C:\Users\javie\dist\openxava-6.3.1\workspace -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:20.948
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.internet.monitor.view" id and the "TCP/IP Monitor" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:21.293
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.jsdt.ui.TypeHierarchy" id and the "Hierarchy" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:21.311
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.jsdt.ui.PackageExplorer" id and the "Script Explorer" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:21.327
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.jsdt.callhierarchy.view" id and the "Call Hierarchy" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:21.359
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.jsdt.ui.SourceView" id and the "Declaration" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:21.371
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.jsdt.ui.JavadocView" id and the "Documentation" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:21.382
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.server.ui.ServersView" id and the "Servers" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:21.395
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" id and the "Data Source Explorer" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:21.426
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.datatools.sqltools.plan.planView" id and the "Execution Plan" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:21.441
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.datatools.sqltools.result.resultView" id and the "SQL Results" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:21.463
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jpt.ui.jpaStructureView" id and the "JPA Structure" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:21.483
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jpt.ui.jpaDetailsView" id and the "JPA Details" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:21.494
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jst.jsf.ui.component.ComponentTreeView" id and the "JSF Component Tree" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:21.510
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jst.jsf.ui.tagregistry.TagRegistryView" id and the "Tag Registry" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:21.519
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jst.ws.jaxws.ui.views.AnnotationsView" id and the "Annotation Properties" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:21.530
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.api.tools.ui.views.apitooling.views.apitoolingview" id and the "API Tools" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:21.540
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.runtime.RegistryBrowser" id and the "Plug-in Registry" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:21.595
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.PluginsView" id and the "Plug-ins" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:21.631
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.FeaturesView" id and the "Features" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:21.718
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.DependenciesView" id and the "Plug-in Dependencies" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:21.751
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.TargetPlatformState" id and the "Target Platform State" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:21.801
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.ImageBrowserView" id and the "Plug-in Image Browser" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:21.830
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.rse.ui.view.systemView" id and the "Remote Systems" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:21.846
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.rse.ui.view.teamView" id and the "Team" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:21.971
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.rse.ui.view.systemTableView" id and the "Remote System Details" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:22.026
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.rse.ui.view.SystemSearchView" id and the "Remote Search" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:22.084
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.rse.ui.view.scratchpad.SystemScratchpadViewPart" id and the "Remote Scratchpad" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-03-31 19:45:22.173
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:22.190
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.rse.ui.view.monitorView" id and the "Remote Monitor" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:22.304
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.tm.terminal.view.ui.TerminalsView" id and the "Terminal" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:22.494
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.tcf.te.ui.terminals.TerminalsView" id and the "Terminals (Old)" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:22.523
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.xml.views.XPathView" id and the "XPath" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:22.558
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.xsl.jaxp.debug.ui.resultview" id and the "Result" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-03-31 19:45:22.574
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.xsl.ui.view.outline" id and the "Stylesheet Model" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+!SESSION 2020-04-01 11:24:30.592 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data C:\Users\javie\dist\openxava-6.3.1\workspace -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-04-01 11:24:46.162
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-23 19:29:31.172 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-23 19:29:46.281
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-23 19:29:46.281
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@72585e83,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6b64bf61,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-23 19:29:56.247
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-06-23 19:29:56.440
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.gef.ui.palette_view" id and the "Palette" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-06-23 19:29:56.580
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.common.snippets.internal.ui.SnippetsView" id and the "Snippets" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-06-23 19:29:56.656
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.mylyn.builds.navigator.builds" id and the "Builds" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.oomph.setup.ui 1 0 2020-06-23 19:30:22.781
+!MESSAGE Setup tasks were performed during startup updating 1 preference. See 'C:\Users\javie\temporal\openxava-6.4\studio\configuration\org.eclipse.oomph.setup\setup.log' for details
+!SESSION 2020-06-25 16:19:56.947 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY com.genuitec.eclipse.startup 4 0 2020-06-25 16:20:58.328
+!MESSAGE Process timed out while checking Windows Defender property: DisableRealtimeMonitoring
+
+!ENTRY org.eclipse.ui 2 0 2020-06-25 16:21:07.879
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-06-25 16:21:07.879
+!MESSAGE Cannot bind to an undefined command: plug-in='com.genuitec.eclipse.theming.ui', id='com.genuitec.myeclipse.help.darktheme.commandid'
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2020-06-25 16:21:10.016
+!MESSAGE A DevStyle Theme is being activated on this workspace; preparing colors and configuration
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2020-06-25 16:21:10.494
+!MESSAGE DevStyle has archived current color configurations to alternate preferences - will be restored when switching out of the DevStyle Theme
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 16:21:13.644
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 16:21:13.644
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@37d81587,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7f3e9acc,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 16:21:32.236
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 18:20:59.981 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data file:/C:/Users/javie/temporal/openxava-6.4/workspace/
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 18:21:45.121
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 18:21:45.121
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3c17794e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@414d2821,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 18:21:55.169
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 18:39:33.834 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 18:39:50.837
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 18:39:50.837
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3d0f2154,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@8374911,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 18:40:01.667
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 18:46:31.962 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 18:46:51.002
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 18:46:51.002
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@44d2bbc0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@310cc4d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 18:47:04.595
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 19:07:28.550 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 19:07:39.960
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 19:07:39.960
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@408b2ae2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@74e1d60b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 19:07:49.124
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 19:27:53.163 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 19:28:04.478
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 19:28:04.478
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5c40402c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@198524ec,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 19:28:16.545
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 19:29:36.791 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 19:29:48.065
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 19:29:48.065
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3146f3d7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4220468,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 19:30:01.446
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 19:33:17.683 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 19:33:31.005
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 19:33:31.005
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2fbd47b7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2ecd2aa4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 19:33:42.360
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 19:34:38.988 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 19:34:52.141
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 19:34:52.141
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3efd3302,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@531292ed,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 19:35:01.447
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 19:37:42.716 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 19:37:53.266
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 19:37:53.266
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3ba815ee,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2fbd47b7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 19:38:02.910
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 19:38:36.228 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 19:38:48.362
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 19:38:48.362
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2ecd2aa4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@27bc2650,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 19:39:04.156
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 19:42:03.072 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 19:42:16.333
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 19:42:16.333
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2fbd47b7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2ecd2aa4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 19:42:26.236
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 19:45:09.536 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 19:45:23.470
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 19:45:23.470
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@198524ec,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5edaa572,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 19:45:36.423
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 19:49:36.336 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 19:49:47.915
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 19:49:47.915
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@586b78d7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@75882ac2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 19:50:00.093
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 19:55:24.844 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 19:55:35.656
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 19:55:35.656
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@586b78d7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@75882ac2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 19:55:45.189
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 19:59:43.856 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 19:59:56.514
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 19:59:56.514
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@568fd3de,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5bc1903,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 20:00:06.199
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 20:06:37.044 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 20:06:49.382
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 20:06:49.382
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@33478a2f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@24e31f06,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 20:06:58.603
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 20:08:07.657 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 20:08:19.211
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 20:08:19.211
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@43255f91,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@408b2ae2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 20:08:28.613
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 20:09:07.877 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 20:09:19.579
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 20:09:19.579
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@53654b2d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@45b2b0ed,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 20:09:28.987
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 20:27:45.834 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 20:28:00.686
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 20:28:00.686
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1ecd09d5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@36f438f1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 20:28:11.266
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 20:34:32.451 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 20:34:44.340
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 20:34:44.340
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3c29f6be,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5519ef7d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 20:34:53.616
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 20:36:20.918 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 20:36:33.766
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 20:36:33.766
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4c5c0306,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3677c508,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 20:36:44.307
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 20:37:28.552 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 20:37:41.042
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 20:37:41.042
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5d260494,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@d43f205,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 20:37:51.009
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 20:43:47.801 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -application OpenXava Studio
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace -application OpenXava Studio
+
+!ENTRY org.eclipse.osgi 4 0 2020-06-25 20:43:52.981
+!MESSAGE Application error
+!STACK 1
+java.lang.RuntimeException: Application "OpenXava" could not be found in the registry. The applications available are: org.eclipse.ant.core.antRunner, org.eclipse.ant.ui.antRunner, org.eclipse.e4.ui.workbench.swt.E4Application, org.eclipse.e4.ui.workbench.swt.GenTopic, org.eclipse.equinox.app.error, org.eclipse.equinox.p2.director, org.eclipse.equinox.p2.garbagecollector.application, org.eclipse.equinox.p2.publisher.InstallPublisher, org.eclipse.equinox.p2.publisher.EclipseGenerator, org.eclipse.equinox.p2.publisher.ProductPublisher, org.eclipse.equinox.p2.publisher.FeaturesAndBundlesPublisher, org.eclipse.equinox.p2.reconciler.application, org.eclipse.equinox.p2.repository.repo2runnable, org.eclipse.equinox.p2.repository.metadataverifier, org.eclipse.equinox.p2.artifact.repository.mirrorApplication, org.eclipse.equinox.p2.metadata.repository.mirrorApplication, org.eclipse.equinox.p2.touchpoint.natives.nativePackageExtractor, org.eclipse.equinox.p2.updatesite.UpdateSitePublisher, org.eclipse.equinox.p2.publisher.UpdateSitePublisher, org.eclipse.equinox.p2.publisher.CategoryPublisher, org.eclipse.help.base.infocenterApplication, org.eclipse.help.base.helpApplication, org.eclipse.help.base.indexTool, org.eclipse.jdt.apt.core.aptBuild, org.eclipse.jdt.core.JavaIndexer, org.eclipse.jdt.core.JavaCodeFormatter, org.eclipse.oomph.p2.core.RepositoryIntegrityAnalyzer, org.eclipse.oomph.p2.core.RepositoryFinder, org.eclipse.oomph.p2.core.P2Indexer, org.eclipse.oomph.setup.core.SetupArchiver, org.eclipse.ui.ide.workbench.
+	at org.eclipse.equinox.internal.app.EclipseAppContainer.startDefaultApp(EclipseAppContainer.java:252)
+	at org.eclipse.equinox.internal.app.MainApplicationLauncher.run(MainApplicationLauncher.java:33)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1447)
+!SESSION 2020-06-25 20:44:10.773 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -application OpenXava
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace -application OpenXava
+
+!ENTRY org.eclipse.osgi 4 0 2020-06-25 20:44:14.348
+!MESSAGE Application error
+!STACK 1
+java.lang.RuntimeException: Application "OpenXava" could not be found in the registry. The applications available are: org.eclipse.ant.core.antRunner, org.eclipse.ant.ui.antRunner, org.eclipse.e4.ui.workbench.swt.E4Application, org.eclipse.e4.ui.workbench.swt.GenTopic, org.eclipse.equinox.app.error, org.eclipse.equinox.p2.director, org.eclipse.equinox.p2.garbagecollector.application, org.eclipse.equinox.p2.publisher.InstallPublisher, org.eclipse.equinox.p2.publisher.EclipseGenerator, org.eclipse.equinox.p2.publisher.ProductPublisher, org.eclipse.equinox.p2.publisher.FeaturesAndBundlesPublisher, org.eclipse.equinox.p2.reconciler.application, org.eclipse.equinox.p2.repository.repo2runnable, org.eclipse.equinox.p2.repository.metadataverifier, org.eclipse.equinox.p2.artifact.repository.mirrorApplication, org.eclipse.equinox.p2.metadata.repository.mirrorApplication, org.eclipse.equinox.p2.touchpoint.natives.nativePackageExtractor, org.eclipse.equinox.p2.updatesite.UpdateSitePublisher, org.eclipse.equinox.p2.publisher.UpdateSitePublisher, org.eclipse.equinox.p2.publisher.CategoryPublisher, org.eclipse.help.base.infocenterApplication, org.eclipse.help.base.helpApplication, org.eclipse.help.base.indexTool, org.eclipse.jdt.apt.core.aptBuild, org.eclipse.jdt.core.JavaIndexer, org.eclipse.jdt.core.JavaCodeFormatter, org.eclipse.oomph.p2.core.RepositoryIntegrityAnalyzer, org.eclipse.oomph.p2.core.RepositoryFinder, org.eclipse.oomph.p2.core.P2Indexer, org.eclipse.oomph.setup.core.SetupArchiver, org.eclipse.ui.ide.workbench.
+	at org.eclipse.equinox.internal.app.EclipseAppContainer.startDefaultApp(EclipseAppContainer.java:252)
+	at org.eclipse.equinox.internal.app.MainApplicationLauncher.run(MainApplicationLauncher.java:33)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1447)
+!SESSION 2020-06-25 20:45:34.813 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 20:45:46.826
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 20:45:46.826
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5d260494,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@d43f205,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 20:45:56.227
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 20:47:51.622 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product OpenXava
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace -product OpenXava
+
+!ENTRY org.eclipse.equinox.app 0 0 2020-06-25 20:47:54.946
+!MESSAGE Product OpenXava could not be found.
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 20:48:02.898
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 20:48:02.898
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3ccc4ca0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1dbfbd94,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 20:48:12.754
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 20:57:48.047 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 20:57:59.487
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 20:57:59.487
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7bdf8c92,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7c0b792e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 20:58:09.131
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 21:26:27.803 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 21:26:43.347
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 21:26:43.347
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7bdf8c92,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7c0b792e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 21:26:54.358
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 21:28:46.822 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 21:29:01.404
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 21:29:01.405
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7bdf8c92,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7c0b792e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 21:29:14.849
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 21:31:53.778 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 21:32:10.156
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 21:32:10.156
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3efd3302,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@531292ed,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 21:32:20.407
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 21:34:27.882 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 21:34:43.498
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 21:34:43.498
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2210af14,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@136a4800,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 21:34:54.510
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 21:42:06.619 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -clean -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 21:43:30.505
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 21:43:30.505
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1784a296,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@49ea4b65,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 21:43:44.856
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-25 21:45:36.517 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-25 21:45:51.365
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-25 21:45:51.365
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2210af14,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@136a4800,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-25 21:46:02.333
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-26 15:03:39.641 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -clean -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-26 15:05:18.767
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-26 15:05:18.767
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5f1c406e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5364b481,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-26 15:05:37.515
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-26 15:08:01.036 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-26 15:08:11.748
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-26 15:08:11.748
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@32d46229,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@35198da3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-26 15:08:20.841
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-26 15:08:43.730 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-26 15:08:55.077
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-26 15:08:55.077
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7f08c343,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7fba492e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-26 15:09:07.046
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-26 19:07:20.896 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-26 19:08:48.286
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-26 19:08:48.286
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2569afda,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@28dd8786,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-26 19:09:13.867
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-26 19:15:54.033 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-26 19:16:29.202
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-26 19:16:29.202
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2e488e45,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@396519b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-26 19:16:49.154
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.oomph.setup.ui 1 0 2020-06-26 19:17:04.854
+!MESSAGE Setup tasks were performed during startup updating 5 preferences. See 'C:\Users\javie\dist\openxava-6.4beta-win64\studio\configuration\org.eclipse.oomph.setup\setup.log' for details
+!SESSION 2020-06-26 21:11:42.707 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-26 21:13:03.900
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-26 21:13:03.900
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5519ef7d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4c5c0306,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-26 21:13:25.067
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-29 16:02:12.007 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.jface 2 0 2020-06-29 16:02:32.709
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-29 16:02:32.709
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4e111e08,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3e0e3048,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-29 16:02:50.317
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.oomph.setup.core 2 0 2020-06-29 16:03:07.833
+!MESSAGE Widget is disposed
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4723)
+	at org.eclipse.swt.SWT.error(SWT.java:4638)
+	at org.eclipse.swt.SWT.error(SWT.java:4609)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:432)
+	at org.eclipse.swt.widgets.Widget.getDisplay(Widget.java:554)
+	at org.eclipse.oomph.ui.UICallback.execInUI(UICallback.java:52)
+	at org.eclipse.oomph.setup.impl.SetupTaskImpl.performUI(SetupTaskImpl.java:842)
+	at org.eclipse.oomph.setup.impl.PreferenceTaskImpl.perform(PreferenceTaskImpl.java:389)
+	at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer.doPerformNeededSetupTasks(SetupTaskPerformer.java:3827)
+	at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer.access$1(SetupTaskPerformer.java:3770)
+	at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer$WorkspaceUtil$1.run(SetupTaskPerformer.java:5136)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer$WorkspaceUtil.performNeededSetupTasks(SetupTaskPerformer.java:5130)
+	at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer$WorkspaceUtil.access$0(SetupTaskPerformer.java:5128)
+	at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer.performNeededSetupTasks(SetupTaskPerformer.java:3761)
+	at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer.performTriggeredSetupTasks(SetupTaskPerformer.java:3736)
+	at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer.perform(SetupTaskPerformer.java:3629)
+	at org.eclipse.oomph.setup.ui.wizards.ProgressPage$9.run(ProgressPage.java:585)
+	at org.eclipse.oomph.setup.ui.wizards.ProgressPage$11$1.run(ProgressPage.java:714)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.oomph.setup.ui 1 0 2020-06-29 16:03:07.968
+!MESSAGE Setup tasks were performed during startup updating 339 preferences. See 'C:\Users\javie\dist\openxava-6.4beta-win64\studio\configuration\org.eclipse.oomph.setup\setup.log' for details
+!SESSION 2020-06-30 19:47:04.558 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.ui 2 0 2020-06-30 19:48:23.994
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-06-30 19:48:23.994
+!MESSAGE Commands should really have a category: plug-in='org.eclipse.oomph.setup.ui', id='org.eclipse.oomph.setup.ui.questionnaire', categoryId='org.eclipse.oomph.setup.category'
+
+!ENTRY org.eclipse.jface 2 0 2020-06-30 19:48:34.163
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-30 19:48:34.163
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5c261c74,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6d38a81d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-30 19:48:58.161
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.oomph.setup.ui 1 0 2020-06-30 19:49:23.815
+!MESSAGE Setup tasks were performed during startup updating 339 preferences. See 'C:\Users\javie\dist\openxava-6.4beta-win64\studio\configuration\org.eclipse.oomph.setup\setup.log' for details
+!SESSION 2020-07-01 18:30:02.346 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2020-07-01 18:30:29.159
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://com.genuitec.eclipse.meexplorer/com.genuitec.eclipse.meexplorer.breadcrumb.e4.BreadCrumbContainer
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-07-01 18:30:40.048
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.buildship.ui.views.taskview" id and the "Gradle Tasks" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-07-01 18:30:40.112
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.buildship.ui.views.executionview" id and the "Gradle Executions" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-07-01 18:30:40.132
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.eclemma.ui.CoverageView" id and the "Coverage" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-07-01 18:30:40.164
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.egit.ui.RepositoriesView" id and the "Git Repositories" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-07-01 18:30:40.180
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.egit.ui.StagingView" id and the "Git Staging" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-07-01 18:30:40.201
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.egit.ui.InteractiveRebaseView" id and the "Git Interactive Rebase" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-07-01 18:30:40.214
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.egit.ui.CompareTreeView" id and the "Git Tree Compare" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-07-01 18:30:40.229
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.egit.ui.ReflogView" id and the "Git Reflog" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-07-01 18:30:40.257
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.m2e.core.views.MavenRepositoryView" id and the "Maven Repositories" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-07-01 18:30:40.268
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.m2e.core.views.MavenBuild" id and the "Maven Workspace Build" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-07-01 18:30:40.286
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.mylyn.commons.repositories.ui.navigator.Repositories" id and the "Team Repositories" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-07-01 18:30:40.298
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.mylyn.tasks.ui.views.tasks" id and the "Task List" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-07-01 18:30:40.317
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.mylyn.tasks.ui.views.repositories" id and the "Task Repositories" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-07-01 18:30:40.337
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.oomph.p2.ui.RepositoryExplorer" id and the "Repository Explorer" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-07-01 18:30:40.357
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.tips.ide.tipPart" id and the "Tip of the Day" label.It points to the non available "bundleclass://org.eclipse.tips.ide/org.eclipse.tips.ide.internal.TipPart" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-07-01 18:30:40.374
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.xml.ui.views.annotations.XMLAnnotationsView" id and the "Documentation" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-07-01 18:30:40.390
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.xml.ui.contentmodel.view" id and the "Content Model" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+!SESSION 2020-07-01 20:50:10.339 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2020-07-01 20:50:55.304
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://com.genuitec.eclipse.meexplorer/com.genuitec.eclipse.meexplorer.breadcrumb.e4.BreadCrumbContainer
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2020-07-01 20:59:45.492
+!MESSAGE Connection to http://mirror.nbtelecom.com.br/eclipse/eclipse/updates/4.16/R-4.16-202006040540/plugins/org.eclipse.equinox.p2.discovery.compatibility_1.1.200.v20190611-1008.jar.pack.gz failed on Connect to mirror.nbtelecom.com.br:80 [mirror.nbtelecom.com.br/189.45.5.90] failed: Connection timed out: connect. Retry attempt 0 started
+!STACK 0
+org.apache.http.conn.HttpHostConnectException: Connect to mirror.nbtelecom.com.br:80 [mirror.nbtelecom.com.br/189.45.5.90] failed: Connection timed out: connect
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:156)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:374)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.base/java.net.PlainSocketImpl.waitForConnect(Native Method)
+	at java.base/java.net.PlainSocketImpl.socketConnect(Unknown Source)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.base/java.net.Socket.connect(Unknown Source)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	... 13 more
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2020-07-01 21:00:30.097
+!MESSAGE Connection to http://mirror.nbtelecom.com.br/eclipse/releases/2020-06/202006171000/features/org.eclipse.epp.mpc_1.8.3.v20200526-1554.jar failed on Connect to mirror.nbtelecom.com.br:80 [mirror.nbtelecom.com.br/189.45.5.90] failed: Connection timed out: connect. Retry attempt 0 started
+!STACK 0
+org.apache.http.conn.HttpHostConnectException: Connect to mirror.nbtelecom.com.br:80 [mirror.nbtelecom.com.br/189.45.5.90] failed: Connection timed out: connect
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:156)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:374)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.base/java.net.PlainSocketImpl.waitForConnect(Native Method)
+	at java.base/java.net.PlainSocketImpl.socketConnect(Unknown Source)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.base/java.net.Socket.connect(Unknown Source)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	... 13 more
+!SESSION 2020-07-01 21:02:16.571 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data file:/C:/Users/javie/dist/openxava-6.4beta2-win64/workspace/
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2020-07-01 21:02:31.313
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://com.genuitec.eclipse.meexplorer/com.genuitec.eclipse.meexplorer.breadcrumb.e4.BreadCrumbContainer
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2020-07-01 21:09:14.077
+!MESSAGE Connection to http://mirror.nbtelecom.com.br/eclipse/releases/2020-06/202006171000/plugins/net.i2p.crypto.eddsa_0.3.0.v20181102-1323.jar.pack.gz failed on Connect to mirror.nbtelecom.com.br:80 [mirror.nbtelecom.com.br/189.45.5.90] failed: Connection timed out: connect. Retry attempt 0 started
+!STACK 0
+org.apache.http.conn.HttpHostConnectException: Connect to mirror.nbtelecom.com.br:80 [mirror.nbtelecom.com.br/189.45.5.90] failed: Connection timed out: connect
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:156)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:374)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.base/java.net.PlainSocketImpl.waitForConnect(Native Method)
+	at java.base/java.net.PlainSocketImpl.socketConnect(Unknown Source)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.base/java.net.Socket.connect(Unknown Source)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	... 13 more
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2020-07-01 21:09:14.166
+!MESSAGE Connection to http://mirror.nbtelecom.com.br/eclipse/releases/2020-06/202006171000/plugins/javaewah_1.1.7.v20200107-0831.jar.pack.gz failed on Connect to mirror.nbtelecom.com.br:80 [mirror.nbtelecom.com.br/189.45.5.90] failed: Connection timed out: connect. Retry attempt 0 started
+!STACK 0
+org.apache.http.conn.HttpHostConnectException: Connect to mirror.nbtelecom.com.br:80 [mirror.nbtelecom.com.br/189.45.5.90] failed: Connection timed out: connect
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:156)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:374)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.base/java.net.PlainSocketImpl.waitForConnect(Native Method)
+	at java.base/java.net.PlainSocketImpl.socketConnect(Unknown Source)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.base/java.net.Socket.connect(Unknown Source)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	... 13 more
+!SESSION 2020-07-01 21:10:06.842 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data file:/C:/Users/javie/dist/openxava-6.4beta2-win64/workspace/
+
+!ENTRY com.genuitec.eclipse.startup 4 0 2020-07-01 21:14:40.026
+!MESSAGE Process timed out while checking Windows Defender property: DisableRealtimeMonitoring
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-07-01 21:15:02.111
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-07-01 21:36:03.790 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace -clean
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-07-01 21:36:51.042
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-07-01 21:43:51.873 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-07-01 21:44:10.023
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-07-02 20:15:45.110 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-07-02 20:17:30.492
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-07-02 22:00:37.750 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-07-02 22:03:39.622
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2020-07-02 22:06:49.014
+!MESSAGE Connection to http://mirror.nbtelecom.com.br/eclipse/releases/2020-06/202006171000/plugins/javax.xml_1.3.4.v201005080400.jar failed on Connect to mirror.nbtelecom.com.br:80 [mirror.nbtelecom.com.br/189.45.5.90] failed: Connection timed out: connect. Retry attempt 0 started
+!STACK 0
+org.apache.http.conn.HttpHostConnectException: Connect to mirror.nbtelecom.com.br:80 [mirror.nbtelecom.com.br/189.45.5.90] failed: Connection timed out: connect
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:156)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:374)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.base/java.net.PlainSocketImpl.waitForConnect(Native Method)
+	at java.base/java.net.PlainSocketImpl.socketConnect(Unknown Source)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.base/java.net.Socket.connect(Unknown Source)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	... 13 more
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2020-07-02 22:06:51.051
+!MESSAGE Connection to http://mirror.nbtelecom.com.br/eclipse/releases/2020-06/202006171000/plugins/org.apache.xml.serializer_2.7.1.v201005080400.jar.pack.gz failed on Connect to mirror.nbtelecom.com.br:80 [mirror.nbtelecom.com.br/189.45.5.90] failed: Connection timed out: connect. Retry attempt 0 started
+!STACK 0
+org.apache.http.conn.HttpHostConnectException: Connect to mirror.nbtelecom.com.br:80 [mirror.nbtelecom.com.br/189.45.5.90] failed: Connection timed out: connect
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:156)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:374)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.base/java.net.PlainSocketImpl.waitForConnect(Native Method)
+	at java.base/java.net.PlainSocketImpl.socketConnect(Unknown Source)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.base/java.net.Socket.connect(Unknown Source)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	... 13 more
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2020-07-02 22:06:51.065
+!MESSAGE Connection to http://mirror.nbtelecom.com.br/eclipse/releases/2020-06/202006171000/plugins/org.apache.xml.resolver_1.2.0.v201005080400.jar.pack.gz failed on Connect to mirror.nbtelecom.com.br:80 [mirror.nbtelecom.com.br/189.45.5.90] failed: Connection timed out: connect. Retry attempt 0 started
+!STACK 0
+org.apache.http.conn.HttpHostConnectException: Connect to mirror.nbtelecom.com.br:80 [mirror.nbtelecom.com.br/189.45.5.90] failed: Connection timed out: connect
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:156)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:374)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.base/java.net.PlainSocketImpl.waitForConnect(Native Method)
+	at java.base/java.net.PlainSocketImpl.socketConnect(Unknown Source)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.base/java.net.Socket.connect(Unknown Source)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	... 13 more
+!SESSION 2020-07-02 22:09:58.310 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data file:/C:/Users/javie/dist/openxava-6.4beta2-win64/workspace/
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-07-02 22:11:01.753
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-07-03 18:16:57.971 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-07-03 18:18:42.110
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-09-22 11:14:02.909 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-09-22 11:14:20.782
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javi'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-09-22 11:15:43.943 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-09-22 11:15:57.857
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javi'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-11-09 13:58:10.161 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-11-09 13:58:31.788
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\javie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-11-09 14:54:13.806 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.7
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_ES
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -data workspace
+
+!ENTRY org.eclipse.equinox.p2.reconciler.dropins 4 0 2020-11-09 14:54:46.297
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Exception in org.eclipse.equinox.internal.p2.reconciler.dropins.Activator.start() of bundle org.eclipse.equinox.p2.reconciler.dropins.
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:864)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:792)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1015)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:365)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:605)
+	at org.eclipse.osgi.container.Module.start(Module.java:468)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1845)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1838)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1781)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1743)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1665)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+Caused by: java.lang.IllegalStateException: The profile is currently in use.
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.lockProfile(SimpleProfileRegistry.java:853)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:72)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:48)
+	at org.eclipse.equinox.internal.p2.reconciler.dropins.ProfileSynchronizer.setProperty(ProfileSynchronizer.java:775)
+	at org.eclipse.equinox.internal.p2.reconciler.dropins.ProfileSynchronizer.synchronize(ProfileSynchronizer.java:121)
+	at org.eclipse.equinox.internal.p2.reconciler.dropins.Activator.synchronize(Activator.java:444)
+	at org.eclipse.equinox.internal.p2.reconciler.dropins.Activator.start(Activator.java:179)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:843)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:1)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:835)
+	... 14 more
+Root exception:
+java.lang.IllegalStateException: The profile is currently in use.
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.lockProfile(SimpleProfileRegistry.java:853)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:72)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:48)
+	at org.eclipse.equinox.internal.p2.reconciler.dropins.ProfileSynchronizer.setProperty(ProfileSynchronizer.java:775)
+	at org.eclipse.equinox.internal.p2.reconciler.dropins.ProfileSynchronizer.synchronize(ProfileSynchronizer.java:121)
+	at org.eclipse.equinox.internal.p2.reconciler.dropins.Activator.synchronize(Activator.java:444)
+	at org.eclipse.equinox.internal.p2.reconciler.dropins.Activator.start(Activator.java:179)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:843)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:1)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:835)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:792)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1015)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:365)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:605)
+	at org.eclipse.osgi.container.Module.start(Module.java:468)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1845)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1838)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1781)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1743)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1665)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)

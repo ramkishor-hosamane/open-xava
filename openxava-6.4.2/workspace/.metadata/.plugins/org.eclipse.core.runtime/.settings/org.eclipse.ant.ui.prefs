@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+org.eclipse.ant.ui.errorColor=121,171,255
+org.eclipse.ant.ui.warningColor=121,171,255
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

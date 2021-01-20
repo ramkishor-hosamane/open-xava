@@ -1,0 +1,318 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Getting started with OpenXava</title>
+    <link rel="stylesheet" href="static/style.css" type="text/css">
+    <link rel="stylesheet" href="highlight/highlight.css">
+    <script src="highlight/highlight.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+  </head>
+  <body>
+    <div class="wiki" style="display: block;">
+      <h1>
+        <span id="breadcrumbs">
+          <span id="openxava">
+          	<a href="https://www.openxava.org/">
+              <span>o</span>pen<span>x</span>ava
+            </a>
+          </span>  
+          / <a href="index_en.html">documentation</a> /  
+				</span>
+				Getting started with OpenXava
+      </h1>
+      Follow this guide to create and run your first OpenXava project. <em>También
+        <a href="getting-started_es.html">disponible en Español</a>.</em><br>
+      <h2 id="toc2"><a name="Lesson 1: Getting started-Our goal: A small invoicing application"></a>Creating
+        a new project</h2>
+    </div>
+    <div class="wiki" style="display: block;"> First, you have to create a new
+      Java project:<br>
+      <img src="files/getting-started_en020.png" alt="getting-started_en020.png"
+
+        title="getting-started_en020.png"><br>
+      Then a wizard will appear. Just type the project name, <em>Invoicing</em>.
+      Beware of writing the <em>I</em> of <em>Invoicing</em> in uppercase in
+      order that the links below work correctly. Click the <em>Finish</em>
+      button:<br>
+      <img src="files/getting-started_en030.png" alt="getting-started_en030.png"
+
+        title="getting-started_en030.png"></div>
+    <div class="wiki" style="display: block;">Then OpenXava Studio will ask you:</div>
+    <img src="files/getting-started_en035.png" alt="Asking for module name">
+    <div class="wiki" style="display: block;">Just click on <i>Don't Create</i>.</div>
+    <div class="wiki" style="display: block;"> After this step you have an empty
+      Java project named <em>Invoicing</em>:<br>
+      <img src="files/getting-started_en040.png" alt="getting-started_en040.png"
+
+        title="getting-started_en040.png"><br>
+      Now you must convert it into an OpenXava project:<br>
+      <img src="files/getting-started_en050.png" alt="getting-started_en050.png"
+
+        title="getting-started_en050.png"><br>
+      Now you have to type the project name. Just type <em>Invoicing</em> and
+      click OK. Wait a few second until it finishes, then you'll have a full
+      OpenXava project there:<br>
+      <img src="files/getting-started_en060.png" alt="getting-started_en060.png"
+
+        title="getting-started_en060.png"><br>
+      Your project is ready to start to write code.<br>
+      <h2 id="toc9"><a name="Lesson 1: Getting started-Creating your first entity"></a>Creating
+        your first entity</h2>
+      Developing the application is very easy. You only have to add entities in
+      order to make your application grow. We start with a simple version of <em>Customer</em>
+      with only <em>number</em> and <em>description</em>. </div>
+    <div class="wiki" style="display: block;">Select the <em>com.yourcompany.invoicing.model</em>
+      package and click on <em>New Java Class</em> button:<br>
+      <img src="files/getting-started_en125.png" alt="getting-started_en125.png"
+
+        title="getting-started_en125.png"><br>
+      Then type <em>Customer</em> as class name and press <em>Finish</em>.<br>
+      <img src="files/getting-started_en130.png" alt="getting-started_en130.png"
+
+        title="getting-started_en130.png"><br>
+      Note that the <em>C</em> of <em>Customer</em> is uppercase, this is very
+      important, all Java classes start by uppercase.<br>
+      The initial code that Eclipse provides for <em>Customer</em> is pretty
+      simple:</div>
+    <div class="wiki" style="display: block;">
+      <pre><code class="java">package com.yourcompany.invoicing.model;
+ 
+public class Customer {
+ 
+}
+</code></pre> </div>
+    <div class="wiki" style="display: block;">Now, you have to fill this class
+      in order to convert it to an entity suitable for OpenXava. You only need
+      to add the <em>@Entity</em> annotation, the <em>number</em> and the <em>description</em>
+      properties:</div>
+    <div class="wiki" style="display: block;">
+      <pre><code class="java">package com.yourcompany.invoicing.model;
+ 
+import javax.persistence.*;
+import org.openxava.annotations.*;
+ 
+@Entity  // This marks Customer class as an entity
+public class Customer {
+ 
+    @Id  // The number property is the key property. Keys are required by default
+    @Column(length=6)  // The column length is used at the UI level and the DB level
+    private int number;
+ 
+    @Column(length=50)  // The column length is used at the UI level and the DB level
+    @Required  // A validation error will be shown if the name property is left empty
+    private String name;
+ 
+    public int getNumber() {
+        return number;
+    }
+ 
+    public void setNumber(int number) {
+        this.number = number;
+    }
+ 
+    public String getName() {
+        return name;
+    }
+ 
+    public void setName(String name) {
+        this.name = name;
+    }
+ 
+}
+</code></pre> </div>
+    <div class="wiki" style="display: block;">At last you have enough code (just
+      one class) to run your application. Let's run it.<br>
+      <h2 id="toc10"><a name="Lesson 1: Getting started-Running the application"></a>Running
+        the application</h2>
+      First, build your project clicking on the <em>Build All</em> button or
+      pressing Ctrl-B:<br>
+      <img src="files/getting-started_en145.png" alt="getting-started_en145.png"
+
+        title="getting-started_en145.png"><br>
+      Click the right mouse button on <i>_Run_Invoicing.java</i> (in <i>Invoicing/src/_run</i>)
+      and select <i>Run As &gt; Java Application</i>: <br>
+      <img src="files/getting-started_en150.png" alt="getting-started_en150.png"
+
+        title="getting-started_en150.png"><br>
+      Your application is already running. To check this, open your favorite
+      browser (Chrome, Firefox, Internet Explorer 11, Edge or Safari) and go to
+      the next URL:</div>
+    <div class="wiki" style="display: block;"><br>
+      <code><i> </i></code></div>
+    <div class="wiki" style="display: block;"><code><i>&nbsp;&nbsp;&nbsp;
+          http://localhost:8080/Invoicing</i></code><br>
+    </div>
+    <div class="wiki" style="display: block;"><br>
+    </div>
+    <div class="wiki" style="display: block;">You get your application running
+      for the first time. To start click on SIGN IN button<br>
+      <img src="files/getting-started_en160.png" alt="getting-started_en160.png"
+
+        title="getting-started_en160.png"></div>
+    <div class="wiki" style="display: block;">Now, enter admin/admin and click
+      on SIGN IN:</div>
+    <img src="files/getting-started_en165.png" alt="Sign In page">
+    <div class="wiki" style="display: block;"> Then on top the left you will
+      have a list of modules, choose <em>Customers</em>:<br>
+      <img src="files/getting-started_en170.png" alt="getting-started_en170.png"
+
+        title="getting-started_en170.png"><br>
+      Use the <em>Customers</em> module to create new customers, just enter
+      number and name and press <em>Save</em>.<br>
+      <img src="files/getting-started_en190.png" alt="getting-started_en190.png"
+
+        title="getting-started_en190.png"><br>
+      Click on <em>List</em> to see the list of created customers.
+      Congratulations, you have your environment configured and your application
+      running.<br>
+      <h2 id="toc11"><a name="Lesson 1: Getting started-Modifying the application"></a>Modifying
+        the application</h2>
+      From now on, developing the application with OpenXava is very easy. Just
+      write a class and go to your browser to see the result. Let's create a new
+      entity for <i>Product</i>.</div>
+    <div class="wiki" style="display: block;">Select the <em>com.yourcompany.invoicing.model</em>
+      package and click on <em>New Java Class</em> button:<br>
+      <img src="files/getting-started_en125.png" alt="getting-started_en125.png"
+
+        title="getting-started_en125.png"><br>
+      Then type <em>Product</em> as class name and press <em>Finish</em>.<br>
+      <img src="files/getting-started_en193.png" alt="getting-started_en193.png"
+
+        title="getting-started_en193.png"></div>
+    <div class="wiki" style="display: block;">Write the next code for <em>Product</em>:</div>
+    <div class="wiki" style="display: block;">
+      <pre><code class="java">package com.yourcompany.invoicing.model;
+ 
+import javax.persistence.*;
+import org.openxava.annotations.*;
+ 
+@Entity
+public class Product {
+ 
+    @Id @Column(length=9)
+    private int number;
+ 
+    @Column(length=50) @Required
+    private String description;
+ 
+    public int getNumber() {
+        return number;
+    }
+    public void setNumber(int number) {
+        this.number = number;
+    }
+ 
+    public String getDescription() {
+        return description;
+    }
+    public void setDescription(String description) {
+        this.description = description;
+    }
+ 
+}
+</code></pre> </div>
+    <div class="wiki" style="display: block;">Now, stop the application, build
+      (Ctrl-B) and start the application again:</div>
+    <img src="files/getting-started_en195.png" alt="getting-started_en195.png" title="getting-started_en195.png">
+    <div class="wiki" style="display: block;"> To see your new entity in action
+      open your browser and go to the URL:</div>
+    <div class="wiki" style="display: block;"><br>
+    </div>
+    <div class="wiki" style="display: block;"> <code><i>&nbsp;&nbsp;&nbsp;
+          http://localhost:8080/Invoicing/modules/Product</i></code><br>
+    </div>
+    <div class="wiki" style="display: block;"><br>
+    </div>
+    <div class="wiki" style="display: block;">After sign in with admin/admin
+      you'll get:<br>
+      <img src="files/getting-started_en200.png" alt="getting-started_en200.png"
+
+        title="getting-started_en200.png"><br>
+      Yes, you have a new module running, and just writing a simple class. Now
+      you can concentrate on growing your application.</div>
+    <div class="wiki" style="display: block;">
+      <h2 id="toc1">Any problem?</h2>
+      Congratulations! You have created your first OpenXava application.
+      Otherwise, if you have had any problem with the above example, ask in the
+      forum:</div>
+    <div class="wiki" style="display: block;"><br>
+    </div>
+    <div class="wiki" style="display: block;">&nbsp;&nbsp;&nbsp; <strong><a class="wiki_link_ext"
+
+          href="http://sourceforge.net/p/openxava/discussion/419690/" rel="nofollow">Ask
+          in the forum</a></strong></div>
+    <div class="wiki" style="display: block;"><br>
+    </div>
+    <div class="wiki" style="display: block;">We'll help you to overcome any
+      difficulty.<br>
+      <h2 id="toc12"><a name="Lesson 1: Getting started-Summary"></a>Next steps</h2>
+    </div>
+    <div class="wiki" style="display: block;">This getting started guide is the
+      lesson 1 of a complete OpenXava course. This course is meant to teach you
+      how to develop enterprise applications with OpenXava as well as other Java
+      related technologies, tools and frameworks. Together we will develop step
+      by step a complete application from scratch. The application chosen is a
+      small invoicing application with invoices, customers, products and so on.
+      This application is just a brief way to learn some typical cases in
+      business applications. You can apply everything you learn with the
+      invoicing application to any other business application of any other
+      domain.<br>
+      This is the content of the course:<br>
+      <ul>
+        <li>Lesson 1: Getting started <i>(You're here)</i></li>
+        <li><a class="wiki_link" href="modeling_en.html">Lesson 2: Modeling with
+            Java</a> <i>(Your next step) </i></li>
+        <li><a class="wiki_link" href="testing_en.html">Lesson 3: Automated
+            testing</a></li>
+        <li><a class="wiki_link" href="inheritance_en.html">Lesson 4:
+            Inheritance</a></li>
+        <li><a class="wiki_link" href="basic-business-logic_en.html">Lesson 5:
+            Basic business logic</a></li>
+        <li><a class="wiki_link" href="validation_en.html">Lesson 6: Advanced
+            validation</a></li>
+        <li><a class="wiki_link" href="refining-standard-behavior_en.html">Lesson
+            7: Refining the standard behavior</a></li>
+        <li><a class="wiki_link" href="business-logic-behavior_en.html">Lesson
+            8: Behavior &amp; business logic</a></li>
+        <li><a class="wiki_link" href="references-collections_en.html">Lesson 9:
+            References &amp; collections</a></li>
+        <li><a class="wiki_link" href="philosophy_en.html">Appendix A:
+            Architecture &amp; philosophy</a></li>
+        <li><a class="wiki_link" href="jpa_en.html">Appendix B: Java Persistence
+            API</a></li>
+        <li><a class="wiki_link" href="annotations_en.html">Appendix C:
+            Annotations</a></li>
+      </ul>
+    </div>
+    <div class="wiki" style="display: block;"><br>
+    </div>
+    <div class="wiki" style="display: block;">You're ready to continue to the
+      next lesson, however you should consider to have a look at some base
+      knowledge, such as:<br>
+      <ul>
+        <li>If you're new to Java you should read an introductory Java book or
+          read the <a class="wiki_link_ext" href="https://docs.oracle.com/javase/tutorial/"
+
+            rel="nofollow">Java Tutorial</a>.</li>
+        <li>If you're interested in the philosophy and architecture of OpenXava
+          <a class="wiki_link" href="philosophy_en.html">read the appendix A</a>
+          of this course.</li>
+        <li>The appendices B and C about <a class="wiki_link" href="jpa_en.html">Java
+            Persistence API</a> and <a class="wiki_link" href="annotations_en.html">annotations</a>
+          will be very useful for you.</li>
+      </ul>
+      <p><br>
+      </p>
+      <p>Do you want to use IntelliJ? Do you want to go against MySQL,
+        PostgreSQL, Oracle, Microsoft SQL Server, AS/400, Informix, Db2 or
+        Firebird? Do you want a detailed reference guide? Look at <a href="index_en.html">the
+          OpenXava documentation</a>, that includes this and much more.</p>
+      <ul>
+      </ul>
+      <br>
+      <strong>Are you ready? <a class="wiki_link" href="modeling_en.html">Go to
+          Lesson 2</a></strong></div>
+    <div class="wiki" style="display: block;"><strong><a class="wiki_link" href="modeling_en.html"><br>
+        </a></strong> </div>
+  </body>
+</html>

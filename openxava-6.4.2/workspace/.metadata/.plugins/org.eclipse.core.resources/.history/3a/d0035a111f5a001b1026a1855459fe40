@@ -1,0 +1,5 @@
+package com.yourcompany.test.model;
+
+public class Customer {
+
+}

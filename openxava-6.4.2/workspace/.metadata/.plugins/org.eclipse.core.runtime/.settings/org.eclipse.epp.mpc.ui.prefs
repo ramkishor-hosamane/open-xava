@@ -1,0 +1,5 @@
+CatalogDescriptor=https\://marketplace.eclipse.org
+eclipse.preferences.version=1
+native-borders=false
+org.eclipse.epp.mpc.naturelookup=false
+overriddenByCSS=,native-borders,
