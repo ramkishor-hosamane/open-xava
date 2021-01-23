@@ -38,7 +38,6 @@ if (title == null) title = metaApplication.getLabel();
 </head>
 
 <body id="welcome" <%=XavaStyle.getBodyClass(request)%>>
-
 <h1><%=metaApplication.getLabel()%></h1>
 <p><%=metaApplication.getDescription()%></p>
 <p><xava:message key="welcome_point1"/></p> 

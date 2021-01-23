@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.openxava.annotations.DefaultValueCalculator"/>
+    <fullyQualifiedTypeName name="java.util.Collection"/>
+    <fullyQualifiedTypeName name="com.yourcompany.test.model.Product"/>
+    <fullyQualifiedTypeName name="org.openxava.annotations.Hidden"/>
+    <fullyQualifiedTypeName name="com.yourcompany.test.model.BillDetail"/>
+</qualifiedTypeNameHistroy>
