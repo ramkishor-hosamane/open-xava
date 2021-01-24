@@ -7,7 +7,7 @@ import org.openxava.annotations.*;
 public class Product {
 	@Id  // The number property is the key property. Keys are required by default
     @Column(length=6)  // The column length is used at the UI level and the DB level
-    private int SLNO;
+    private int number;
 
 	@Column(length=50)  // The column length is used at the UI level and the DB level
     @Required  // A validation error will be shown if the name property is left empty
@@ -17,17 +17,17 @@ public class Product {
     @Column(length=10)  // The column length is used at the UI level and the DB level
     private int price;
     
-    @Column(length=10)  // The column length is used at the UI level and the DB level
-    private int stock;
 
 
 
-	public int getSLNO() {
-		return SLNO;
+
+
+	public int getNumber() {
+		return number;
 	}
 
-	public void setSLNO(int sLNO) {
-		SLNO = sLNO;
+	public void setNumber(int number) {
+		this.number = number;
 	}
 
 	public int getPrice() {
@@ -36,14 +36,6 @@ public class Product {
 
 	public void setPrice(int price) {
 		this.price = price;
-	}
-
-	public int getStock() {
-		return stock;
-	}
-
-	public void setStock(int stock) {
-		this.stock = stock;
 	}
 
 	public String getName() {
